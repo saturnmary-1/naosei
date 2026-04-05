@@ -1,1 +1,17 @@
+body {
+    background-color: #d6993c;
+    color: white;
+  font-family: 'Poppins', sans-serif;
+}
 
+.card {
+    background-color: #325862;
+    text-align: center;
+    box-shadow: #112429;
+}
+.menu { 
+    display: flex;
+    justify-content: center;
+    gap: 10px
+
+}
