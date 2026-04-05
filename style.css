@@ -8,6 +8,7 @@ body {
     background-color: #325862;
     text-align: center;
     box-shadow: #112429;
+    width: 150px;
 }
 .menu { 
     display: flex;
