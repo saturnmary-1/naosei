@@ -16,3 +16,9 @@ body {
     gap: 10px
 
 }
+
+.linha{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
