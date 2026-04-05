@@ -23,6 +23,7 @@ background:linear-gradient(135deg, #ff7a00, #00c2a8, #3a86ff);
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
 
 color: white;
 
