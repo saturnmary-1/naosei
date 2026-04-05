@@ -3,16 +3,6 @@ body {
     color: white;
   font-family: 'Poppins', sans-serif;
 }
-.linha{
-    display: flex;
-    align-items: center;
-    gap: 10px;
-}
-
-.linha img {
-    width: 50 px !important;
-    height: auto;
-}
 
 .card {
     background-color: #325862;
