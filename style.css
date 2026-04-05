@@ -1,18 +1,25 @@
 body {
-    background-color: #d6993c;
+    margin: 0;
+background:linear-gradient(135deg, #ff7a00, #00c2a8, #3a86ff);
     color: white;
-  font-family: 'Poppins', sans-serif;
+
+    display:flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+    font-family: 'Poppins', sans-serif;
+
 }
 
 .card {
-    background-color: #325862;
+    background-color: rgba(0,0, 0, 0.6);
+    padding: 20px;
+    width: 250px;
+    border-radius: 20px;
     text-align: center;
-    box-shadow: #112429;
-    width: 100px;
-}
-.menu { 
-    display: flex;
-    justify-content: center;
-    gap: 10px
 
+color: white;
+
+    box-shadow: 0 0 20px rgba(255, 122, 0, 0.5)
 }
