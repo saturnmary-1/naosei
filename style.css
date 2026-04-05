@@ -10,7 +10,7 @@ body {
 }
 
 .linha img {
-    width: 20 px;
+    width: 50 px !important;
     height: auto;
 }
 
