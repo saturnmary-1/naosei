@@ -12,6 +12,13 @@ background:linear-gradient(135deg, #ff7a00, #00c2a8, #3a86ff);
 
 }
 
+.frase {
+    margin-top: 0px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    text-align: center;
+}
+
 .card {
     background-color: rgba(0,0, 0, 0.6);
     padding: 20px;
@@ -28,11 +35,4 @@ background:linear-gradient(135deg, #ff7a00, #00c2a8, #3a86ff);
 color: white;
 
     box-shadow: 0 0 20px rgba(255, 122, 0, 0.5)
-}
-
-.frase {
-    margin-top: 0px;
-    margin-bottom: 10px;
-    font-size: 16px;
-    text-align: center;
 }
