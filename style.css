@@ -22,3 +22,8 @@ body {
     align-items: center;
     gap: 10px;
 }
+
+.linha img {
+    width: 20 px;
+    height: auto;
+}
